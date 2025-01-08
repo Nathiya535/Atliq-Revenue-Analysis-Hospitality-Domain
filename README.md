@@ -18,22 +18,18 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-<p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
-</p>
+
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/ec4a85e9-13f2-49b7-acd0-31e701773864)
 
 ## Data Model
 
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
-</p>
+<img width="334" alt="data_model" src="https://github.com/user-attachments/assets/26185c3b-079b-4185-a111-f64ddb0129f5" />
 
 
 ## Overall Analysis View
 
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
-</p>
+![Screenshot 2025-01-07 140105](https://github.com/user-attachments/assets/ebade65c-21e2-4997-b584-ecfdfac38ed2)
+
 
 ## Monthly Analysis View
 
